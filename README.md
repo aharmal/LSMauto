@@ -4,9 +4,9 @@
 
 ![figure 1](https://user-images.githubusercontent.com/99771175/229556965-b8fd9a3d-34df-4529-ac82-106575c75bbc.jpg)
 
-Please cite work related to this code:
+Please cite work related to this code (Find our latest work in our scholar profile: https://scholar.google.com/citations?user=OZMm7ogAAAAJ&hl=en&oi=ao):
 > Harmal, A., Khouchani, O., El-Korchi, T., Tao, M., & Walker, H. W. (2023). Bioinspired brick-and-mortar geopolymer composites with ultra-high toughness. Cement and Concrete Composites, 104944.
-(Find our latest work in our scholar profile: https://scholar.google.com/citations?user=OZMm7ogAAAAJ&hl=en&oi=ao)
+
 
 Please also cite work related to Img2Particle code used in this code.
 > Chiang Y, Chiu T-W and Chang S-W (2022) ImageMech: From Image to Particle Spring Network for Mechanical Characterization. *Front. Mater.* 8:803875. doi: 10.3389/fmats.2021.803875
