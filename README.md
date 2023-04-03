@@ -46,7 +46,7 @@ The previous command will change the aspect ratio to 1:4 and the overlap to 0.2
 You can also open the text file ss.txt to see displacement-load results at each timestep, and use it to plot strain-stress graphs.
 The dump files give the position (x,y,z), stresses (σxx, σyy, σxy), and forces (fx, fy) for all the datapoints of the simulated system. This gives you the ability to compute other properties we did not cover in our post-processing.
 
-- If you would like to take advantage of parallel computing, please change the line in LSMauto (in case you have 10 processors for example): 
+- If you would like to take advantage of parallel computing, please change the line in LSMauto (in case you have 10 cores for example): 
 
 ```os.system("lmp -in script.in")```
 
