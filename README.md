@@ -19,7 +19,7 @@ Please also cite work related to Img2Particle code used in this code.
 
 Alternatively, for more experienced users (if needed) you can build LAMMPS in your system using make or cmake (https://docs.lammps.org/Install.html). In this case, please make sure to install MOLECULE and MC (Monte Carlo) packages.
 
-- Python packages: Install Python in your terminal and install the following python packages: os, math, PIL, numpy, matplotlib, datetime.
+- Python packages: Install Python in your terminal and install the following python packages: os, math, PIL, numpy, matplotlib, datetime, argparse.
 
 ## How to run 
 
