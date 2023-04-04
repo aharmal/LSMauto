@@ -1,6 +1,6 @@
 # LSMauto
 
-**LSMauto (Lattice Spring Model automation)** is a python code that simulates 3-point bending using Lattice Spring Modeling from one command line. Several functions, which are usually used separately, are chained, making the simulation process easy to use. The objective of this code is to make this simulation method more accessible and easier to use for the materials science community. The simulation is calibrated for our samples (geopolymer composites, see reference below). Feel free to explore the functions used in this code and taylor it to your need.
+**LSMauto (Lattice Spring Model automation)** is a python code that simulates fracture of single edge notched beam 3-point bending using Lattice Spring Modeling from one command line. Several functions, which are usually used separately, are chained, making the simulation process easy to use. The objective of this code is to make this simulation method more accessible and easier to use for the materials science community. The simulation is calibrated for our samples (geopolymer composites, see reference below). Feel free to explore the functions used in this code and taylor it to your need.
 
 ![figure 1](https://user-images.githubusercontent.com/99771175/229556965-b8fd9a3d-34df-4529-ac82-106575c75bbc.jpg)
 
